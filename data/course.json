@@ -1,0 +1,64 @@
+{
+    "course": [
+        {
+            "courseID": "CSE-101",
+            "courseName": "C",
+            "instructorName": "Nazmul",
+            "numberOfCredits": 3
+        },
+        {
+            "courseID": "CSE-102",
+            "courseName": "C++",
+            "instructorName": "Mehedi",
+            "numberOfCredits": 3
+        },
+        {
+            "courseID": "CSE-103",
+            "courseName": "C#",
+            "instructorName": "Javed",
+            "numberOfCredits": 3
+        },
+        {
+            "courseID": "CSE-104",
+            "courseName": "Java",
+            "instructorName": "Hasan",
+            "numberOfCredits": 3
+        },
+        {
+            "courseID": "CSE-105",
+            "courseName": "HTML",
+            "instructorName": "Nazrul",
+            "numberOfCredits": 3
+        },
+        {
+            "courseID": "CSE-106",
+            "courseName": "CSS",
+            "instructorName": "Masud",
+            "numberOfCredits": 3
+        },
+        {
+            "courseID": "CSE-107",
+            "courseName": "React",
+            "instructorName": "Osama",
+            "numberOfCredits": 3
+        },
+        {
+            "courseID": "CSE-108",
+            "courseName": "Next",
+            "instructorName": "Efti",
+            "numberOfCredits": 3
+        },
+        {
+            "courseID": "CSE-109",
+            "courseName": "Flutter",
+            "instructorName": "Jehan",
+            "numberOfCredits": 3
+        },
+        {
+            "courseID": "CSE-110",
+            "courseName": "dotnet",
+            "instructorName": "Bishal",
+            "numberOfCredits": 3
+        }
+    ]
+}

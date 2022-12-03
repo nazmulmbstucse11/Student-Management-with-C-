@@ -1,0 +1,34 @@
+C:\Users\Lenovo\Desktop\studentManagement\bin\Debug\net6.0\studentManagement.exe
+C:\Users\Lenovo\Desktop\studentManagement\bin\Debug\net6.0\studentManagement.deps.json
+C:\Users\Lenovo\Desktop\studentManagement\bin\Debug\net6.0\studentManagement.runtimeconfig.json
+C:\Users\Lenovo\Desktop\studentManagement\bin\Debug\net6.0\studentManagement.dll
+C:\Users\Lenovo\Desktop\studentManagement\bin\Debug\net6.0\studentManagement.pdb
+C:\Users\Lenovo\Desktop\studentManagement\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Lenovo\Desktop\studentManagement\obj\Debug\net6.0\studentManagement.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\studentManagement\obj\Debug\net6.0\studentManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\studentManagement\obj\Debug\net6.0\studentManagement.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\studentManagement\obj\Debug\net6.0\studentManagement.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\studentManagement\obj\Debug\net6.0\studentManagement.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\studentManagement\obj\Debug\net6.0\studentManagement.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\studentManagement\obj\Debug\net6.0\studentManagement.dll
+C:\Users\Lenovo\Desktop\studentManagement\obj\Debug\net6.0\refint\studentManagement.dll
+C:\Users\Lenovo\Desktop\studentManagement\obj\Debug\net6.0\studentManagement.pdb
+C:\Users\Lenovo\Desktop\studentManagement\obj\Debug\net6.0\studentManagement.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\studentManagement\obj\Debug\net6.0\ref\studentManagement.dll
+D:\Nazmul\Astha IT\5.C#\studentManagement\bin\Debug\net6.0\studentManagement.exe
+D:\Nazmul\Astha IT\5.C#\studentManagement\bin\Debug\net6.0\studentManagement.deps.json
+D:\Nazmul\Astha IT\5.C#\studentManagement\bin\Debug\net6.0\studentManagement.runtimeconfig.json
+D:\Nazmul\Astha IT\5.C#\studentManagement\bin\Debug\net6.0\studentManagement.dll
+D:\Nazmul\Astha IT\5.C#\studentManagement\bin\Debug\net6.0\studentManagement.pdb
+D:\Nazmul\Astha IT\5.C#\studentManagement\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Nazmul\Astha IT\5.C#\studentManagement\obj\Debug\net6.0\studentManagement.csproj.AssemblyReference.cache
+D:\Nazmul\Astha IT\5.C#\studentManagement\obj\Debug\net6.0\studentManagement.GeneratedMSBuildEditorConfig.editorconfig
+D:\Nazmul\Astha IT\5.C#\studentManagement\obj\Debug\net6.0\studentManagement.AssemblyInfoInputs.cache
+D:\Nazmul\Astha IT\5.C#\studentManagement\obj\Debug\net6.0\studentManagement.AssemblyInfo.cs
+D:\Nazmul\Astha IT\5.C#\studentManagement\obj\Debug\net6.0\studentManagement.csproj.CoreCompileInputs.cache
+D:\Nazmul\Astha IT\5.C#\studentManagement\obj\Debug\net6.0\studentManagement.csproj.CopyComplete
+D:\Nazmul\Astha IT\5.C#\studentManagement\obj\Debug\net6.0\studentManagement.dll
+D:\Nazmul\Astha IT\5.C#\studentManagement\obj\Debug\net6.0\refint\studentManagement.dll
+D:\Nazmul\Astha IT\5.C#\studentManagement\obj\Debug\net6.0\studentManagement.pdb
+D:\Nazmul\Astha IT\5.C#\studentManagement\obj\Debug\net6.0\studentManagement.genruntimeconfig.cache
+D:\Nazmul\Astha IT\5.C#\studentManagement\obj\Debug\net6.0\ref\studentManagement.dll

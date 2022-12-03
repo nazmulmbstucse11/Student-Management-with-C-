@@ -1,0 +1,40 @@
+{
+  "semesterroot": [
+    {
+      "StudentId": "111-111-111",
+      "Code": "Summer",
+      "Year": "2021",
+      "SemesterId": "111-111-111@Summer-2021"
+    },
+    {
+      "StudentId": "111-111-111",
+      "Code": "Fall",
+      "Year": "2022",
+      "SemesterId": "111-111-111@Fall-2022"
+    },
+    {
+      "StudentId": "222-222-222",
+      "Code": "Spring",
+      "Year": "2019",
+      "SemesterId": "222-222-222@Spring-2019"
+    },
+    {
+      "StudentId": "222-222-222",
+      "Code": "Fall",
+      "Year": "2017",
+      "SemesterId": "222-222-222@Fall-2017"
+    },
+    {
+      "StudentId": "333-333-333",
+      "Code": "Fall",
+      "Year": "2032",
+      "SemesterId": "333-333-333@Fall-2032"
+    },
+    {
+      "StudentId": "333-333-333",
+      "Code": "Spring",
+      "Year": "3021",
+      "SemesterId": "333-333-333@Spring-3021"
+    }
+  ]
+}

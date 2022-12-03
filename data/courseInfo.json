@@ -1,0 +1,100 @@
+{
+  "courseroot": [
+    {
+      "CourseId": "CSE-101",
+      "CourseName": "C",
+      "InstructorName": "Nazmul",
+      "NumberOfCredits": 3,
+      "SemesterId": "111-111-111@Summer-2021",
+      "StudentId": "111-111-111"
+    },
+    {
+      "CourseId": "CSE-102",
+      "CourseName": "C++",
+      "InstructorName": "Mehedi",
+      "NumberOfCredits": 3,
+      "SemesterId": "111-111-111@Summer-2021",
+      "StudentId": "111-111-111"
+    },
+    {
+      "CourseId": "CSE-105",
+      "CourseName": "HTML",
+      "InstructorName": "Nazrul",
+      "NumberOfCredits": 3,
+      "SemesterId": "111-111-111@Fall-2022",
+      "StudentId": "111-111-111"
+    },
+    {
+      "CourseId": "CSE-108",
+      "CourseName": "Next",
+      "InstructorName": "Efti",
+      "NumberOfCredits": 3,
+      "SemesterId": "111-111-111@Fall-2022",
+      "StudentId": "111-111-111"
+    },
+    {
+      "CourseId": "CSE-105",
+      "CourseName": "HTML",
+      "InstructorName": "Nazrul",
+      "NumberOfCredits": 3,
+      "SemesterId": "222-222-222@Spring-2019",
+      "StudentId": "222-222-222"
+    },
+    {
+      "CourseId": "CSE-106",
+      "CourseName": "CSS",
+      "InstructorName": "Masud",
+      "NumberOfCredits": 3,
+      "SemesterId": "222-222-222@Spring-2019",
+      "StudentId": "222-222-222"
+    },
+    {
+      "CourseId": "CSE-104",
+      "CourseName": "Java",
+      "InstructorName": "Hasan",
+      "NumberOfCredits": 3,
+      "SemesterId": "222-222-222@Fall-2017",
+      "StudentId": "222-222-222"
+    },
+    {
+      "CourseId": "CSE-110",
+      "CourseName": "dotnet",
+      "InstructorName": "Bishal",
+      "NumberOfCredits": 3,
+      "SemesterId": "222-222-222@Fall-2017",
+      "StudentId": "222-222-222"
+    },
+    {
+      "CourseId": "CSE-108",
+      "CourseName": "Next",
+      "InstructorName": "Efti",
+      "NumberOfCredits": 3,
+      "SemesterId": "333-333-333@Fall-2032",
+      "StudentId": "333-333-333"
+    },
+    {
+      "CourseId": "CSE-109",
+      "CourseName": "Flutter",
+      "InstructorName": "Jehan",
+      "NumberOfCredits": 3,
+      "SemesterId": "333-333-333@Fall-2032",
+      "StudentId": "333-333-333"
+    },
+    {
+      "CourseId": "CSE-101",
+      "CourseName": "C",
+      "InstructorName": "Nazmul",
+      "NumberOfCredits": 3,
+      "SemesterId": "333-333-333@Spring-3021",
+      "StudentId": "333-333-333"
+    },
+    {
+      "CourseId": "CSE-102",
+      "CourseName": "C++",
+      "InstructorName": "Mehedi",
+      "NumberOfCredits": 3,
+      "SemesterId": "333-333-333@Spring-3021",
+      "StudentId": "333-333-333"
+    }
+  ]
+}

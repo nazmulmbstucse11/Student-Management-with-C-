@@ -1,0 +1,34 @@
+{
+  "studentroot": [
+    {
+      "FirstName": "Md.",
+      "MiddleName": "Nazmul",
+      "LastName": "Haque",
+      "StudentId": "111-111-111",
+      "Semester": "Spring",
+      "Year": "2022",
+      "Department": "ComputerScience",
+      "Degree": "BSC"
+    },
+    {
+      "FirstName": "Md.",
+      "MiddleName": "Hasan",
+      "LastName": "Ali",
+      "StudentId": "222-222-222",
+      "Semester": "Spring",
+      "Year": "2022",
+      "Department": "BBA",
+      "Degree": "BBA"
+    },
+    {
+      "FirstName": "Md.",
+      "MiddleName": "Masud",
+      "LastName": "Rana",
+      "StudentId": "333-333-333",
+      "Semester": "Spring",
+      "Year": "2022",
+      "Department": "English",
+      "Degree": "MA"
+    }
+  ]
+}
