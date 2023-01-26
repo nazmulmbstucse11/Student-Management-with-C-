@@ -3,4 +3,7 @@ semesters to each student, add different courses in each semester and also delet
 
 Developed with the help of different features of C# and JSON file is used for data storage.
 
-Project video has been given in issues.
+
+https://user-images.githubusercontent.com/114830903/214836474-0aa5c8af-23c8-4745-9234-5436e2d1a030.mp4
+
+
